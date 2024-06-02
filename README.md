@@ -34,8 +34,9 @@ Follow these steps to run the application:
 3. When the application opens, enter two sequences and click the "Compute LCS" button.
 
 #### Screenshot
+![LCS_finder](https://github.com/rukiyeberna/algorithm_analysis/assets/117301103/980467c3-c17a-4e07-b449-44ec4bbfa83a)
 
-![Screenshot](dynamic_programming/lcs_finder.png)
+
 
 ## Other Sections
 
